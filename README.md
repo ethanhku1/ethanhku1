@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @ethanhku1
+- 👀 I’m interested in Electrical Engineering with a minor in CS
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on anything :)
+- 📫 How to reach me ethanhku@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can do the Chinese Yoyo
+
+<!---
+ethanhku1/ethanhku1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
