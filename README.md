@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me ethanhku@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can do the Chinese Yoyo
+- ⚡ Fun fact: I can do the Chinese Yoyo and am on UM's premiere Chinese Yoyo team, Revolution
 
 <!---
 ethanhku1/ethanhku1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
